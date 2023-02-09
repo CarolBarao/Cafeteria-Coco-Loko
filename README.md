@@ -4,6 +4,8 @@ Projecto de  Carta de Restaurante Digital con HTML5, CSS3, CSS Layout (Flexbox &
 La página contiene HTML hipervinculadas, siendo: Nosotros (Introducción del establecimiento), Contacto
 y la Carta.
 
+Para comprobar nuestra Carta de Brunch, simplemente haga clic en la foto que abrirá una página hipervinculada con las opciones de nuestra carta.
+
 
 ![Coco Loko 1](https://user-images.githubusercontent.com/119294176/217801516-37db9036-b223-43e4-b6ba-f4dfd959b671.png)
 ![Coco Loko 5](https://user-images.githubusercontent.com/119294176/217804849-adf2cd1d-e2b1-4563-b256-f26ad2644540.png)
