@@ -1,6 +1,8 @@
 # Projecto de  Carta de Restaurante Digital: *Cafeteria Coco Loko*
 
 Projecto de  Carta de Restaurante Digital con HTML5, CSS3, CSS Layout (Flexbox & Grid) además de Bootstrap.
+La página contiene HTML hipervinculadas, siendo: Nosotros (Introducción del establecimiento), Contacto
+y la Carta.
 
 
 ![Coco Loko 1](https://user-images.githubusercontent.com/119294176/217801516-37db9036-b223-43e4-b6ba-f4dfd959b671.png)
